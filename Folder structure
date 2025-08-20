@@ -1,0 +1,9 @@
+debate-bot/
+│─ commands/
+│   ├─ win.js
+│   ├─ judge.js
+│   ├─ rank.js
+│─ data.json
+│─ index.js
+│─ package.json
+│─ .env.example
